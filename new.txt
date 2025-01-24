@@ -1,4 +1,4 @@
-this is a new txt file
+this line  has been changed
 pushing into github 
 2 new lines
 added 
