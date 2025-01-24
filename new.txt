@@ -1,2 +1,4 @@
 this is a new txt file
-pushing into github
+pushing into github 
+2 new lines
+added 
